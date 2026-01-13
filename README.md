@@ -24,3 +24,8 @@ www.bilibili.com##.unlogin-popover
 实例:<img width="1300" height="725" alt="image" src="https://github.com/user-attachments/assets/e30bd8a6-d266-4e00-9068-194dd1a0145c" />
 ,其次,下载adblock或者任意广告拦截
 右键弹窗,选择区域,设置屏蔽即可
+
+<img width="244" height="180" alt="image" src="https://github.com/user-attachments/assets/ead0e996-b337-4bd5-b8a7-96ec5732fc76" />
+
+<img width="1834" height="776" alt="image" src="https://github.com/user-attachments/assets/1bc5817f-b83c-425e-9ab2-f7841a051dc5" />
+
