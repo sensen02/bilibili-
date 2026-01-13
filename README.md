@@ -1,5 +1,5 @@
 # bilibili-
-教大家如何在bilibili绕过登录弹窗
+教大家如何在bilibili绕过登录弹窗,但是有副作用,就是还要手动按space继续播放
 首先,下载uBlock origin
 配图如下啊
 
