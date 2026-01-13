@@ -9,10 +9,15 @@
 
 
 www.bilibili.com##html,body:style(filter:none!important)
+
 www.bilibili.com##video:style(filter:none!important)
+
 www.bilibili.com##.bpx-player-container:style(filter:none!important)
+
 www.bilibili.com##.bili-player-video-wrap:style(filter:none!important)
+
 www.bilibili.com##.bili-mini-mask
+
 www.bilibili.com##.unlogin-popover
 
 
